@@ -65,3 +65,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+![landing_page](https://github.com/user-attachments/assets/9f3d5998-8fa2-4604-a058-8781542cbf33)
+
